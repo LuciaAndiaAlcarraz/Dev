@@ -194,3 +194,12 @@ p.text-product {
     text-decoration: line-through;
     color: #5c5c5c;
 }
+
+.footer{
+    padding: 25px;
+    background-color: black;
+}
+.footer p{
+    text-align: center;
+    color: white;
+}
